@@ -168,8 +168,8 @@ export default class AppIntroSlider extends React.Component {
               />
             ))}
         </View>
-        {btn}
         {skipBtn}
+        {btn}
       </View>
     );
   };
